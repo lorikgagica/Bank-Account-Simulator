@@ -37,8 +37,6 @@ A simple Python console app for simulating basic banking operations. Create acco
 
 --- Bank Account Simulator ---
 
-    ```
-    --- Bank Account Simulator ---
 
 Create Account
 
@@ -72,7 +70,6 @@ Exit
 Enter your choice(1-4): 1
 Enter deposit amount: 50
 Deposited $50.0. New balance: $350.0
-    ```
 
 ---
 
